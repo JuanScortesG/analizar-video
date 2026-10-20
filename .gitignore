@@ -1,0 +1,10 @@
+
+.hermad/generated/
+.hermad/worktrees/
+.hermad/inbox/
+.hermad/memory/
+.hermad/state.json
+.opencode/agents/hermad-*
+prototypes/analizar-video/.venv/
+prototypes/analizar-video/output/
+__pycache__/
